@@ -77,7 +77,7 @@ circle_imp_point_dist_signed_2d: signed distance ( implicit circle, point ) in 2
 * cube_size_3d gives "sizes" for a cube in 3D.
 * cylinder_point_dist_3d determines the distance from a cylinder to a point in 3D.
 * cylinder_point_dist_signed_3d: signed distance from cylinder to point in 3D.
-cylinder_point_inside_3d determines if a cylinder contains a point in 3D.
+* cylinder_point_inside_3d determines if a cylinder contains a point in 3D.
 * cylinder_point_near_3d: nearest point on a cylinder to a point in 3D.
 * cylinder_sample_3d samples a cylinder in 3D.
 * cylinder_volume_3d determines the volume of a cylinder in 3D.
